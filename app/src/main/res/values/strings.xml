@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cardapio</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_exibicao">Exibicao</string>
+    <string-array name="opcoes">
+        <item>Comidas</item>
+        <item>Bebidas</item>
+    </string-array>
+</resources>
